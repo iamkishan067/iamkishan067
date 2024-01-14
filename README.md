@@ -1,7 +1,6 @@
 ### Hi there, I'm Kishan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
-## I'm a final year Computer Science student in  Dr. Ambedkar Institute of Technology
 
 ####  <img src="https://img.icons8.com/color/20/4a90e2/learning.png"/> Learning :
   - Spring Boot <br>
